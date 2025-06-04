@@ -58,8 +58,4 @@ As a **Web Development Intern at Prodigy InfoTech**, I learned:
 4. Scroll or click nav links to see the smooth interaction
 
 ---
-
-## 🧑‍💻 Author
-
-**Devashree Devanand Shamkule**  
-
+ 
