@@ -52,16 +52,17 @@ As a **Web Development Intern at Prodigy InfoTech**, I learned:
 
 ## 🛠️ How to Run
 
-1. Download or clone the repository  
-2. Open `index.html` in any browser  
-3. Scroll or click nav links to see the smooth interaction
+1. Download or clone the repository
+   github: https://github.com/DevashreeShamkule123/PRODIGY_WD_01.git
+3. Open `index.html` in any browser  
+4. Scroll or click nav links to see the smooth interaction
 
 ---
 
 ## 🧑‍💻 Author
 
 **Devashree Devanand Shamkule**  
-Web Development Intern – Prodigy InfoTech
+
 
 ---
 
