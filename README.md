@@ -7,9 +7,9 @@ This is a beginner-friendly responsive landing page built using **HTML**, **CSS*
 ## 📁 Project Structure
 
 📁 project-folder/
-├── index.html
-├── style.css
-└──script.js
+index.html,
+style.css,
+script.js
 
 ---
 
