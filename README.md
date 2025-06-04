@@ -9,7 +9,7 @@ This is a beginner-friendly responsive landing page built using **HTML**, **CSS*
 📁 project-folder/
 ├── index.html
 ├── style.css
-└── script.js
+└──script.js
 
 ---
 
