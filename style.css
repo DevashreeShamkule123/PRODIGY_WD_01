@@ -7,7 +7,7 @@ body {
 
 /* Navbar styles */
 .navbar {
-    background-color: lightcoral;
+    background-color: #e71eda; 
     position: fixed;
     width: 100%;
     top: 0;
@@ -59,6 +59,6 @@ body {
 
 /* Change navbar when scrolling */
 .navbar.scrolled {
-    background-color: darkcyan;
+    background-color: #ff69b4; /* Pink color */
     transition: background-color 1s ease;
 }
