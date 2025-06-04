@@ -1,0 +1,64 @@
+/* Reset and base styles */
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    scroll-behavior: smooth;
+}
+
+/* Navbar styles */
+.navbar {
+    background-color: lightcoral;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    padding: 10px 20px;
+    color: white;
+    text-align: center;
+    font-size: medium;
+}
+
+.menu {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    padding: 10px 0;
+    margin: 0;
+    flex-wrap: wrap;
+}
+
+.menu li a {
+    color: white;
+    text-decoration: none;
+    padding: 8px 15px;
+    font-weight: bold;
+    transition: 0.3s ease;
+}
+
+.menu li a:hover {
+    background-color: white;
+    color: white
+    border-radius: 5px;
+}
+
+/* Sections */
+.section {
+    padding: 140px 40px;
+    min-height: 100vh;
+    text-align: center;
+    background-color: lightblue;
+}
+
+.section p {
+    max-width: 800px;
+    margin: 0 auto;
+    line-height: 1.6;
+    font-size: 18px;
+}
+
+
+/* Change navbar when scrolling */
+.navbar.scrolled {
+    background-color: darkcyan;
+    transition: background-color 1s ease;
+}
