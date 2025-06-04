@@ -63,13 +63,3 @@ As a **Web Development Intern at Prodigy InfoTech**, I learned:
 
 **Devashree Devanand Shamkule**  
 
-
----
-
-## 📬 Contact
-
-For any queries or suggestions:  
-📧 dshamkule@example.com
-
----
-
